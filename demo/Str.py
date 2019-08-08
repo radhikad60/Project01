@@ -1,0 +1,1 @@
+name=input("type your name","type a single character")
