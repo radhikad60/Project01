@@ -7,6 +7,6 @@ def gretest(num1,num2):
 
 x=int(input("plese enter first number"))
 y=int(input("please enter second number"))
-
-gretest(x,y)    
+gretest(x,y)   
+ 
 
