@@ -7,4 +7,5 @@ echo $val
 echo "please enter names"ch 
 read test  test1 test2
 echo "your names are $test,$test1,$test2"
+echo "Sabhrant's cahnge"
 
